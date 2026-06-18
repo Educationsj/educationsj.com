@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "St Josephs Online Institute",
+    "description": "",
+    "home_page_url": "https://educationsj.com",
+    "feed_url": "https://educationsj.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Roy Sebastian"
+    },
+    "items": [
+        {
+            "id": "https://educationsj.com/welcome-to-stjosephs-online-institute.html",
+            "url": "https://educationsj.com/welcome-to-stjosephs-online-institute.html",
+            "title": "Welcome to St.Joseph&#x27;s Online Institute",
+            "summary": "Expert Online Math &amp; Science Tutoring We Provide NIOS Coaching for Class 10 &amp; 12 in India and Year 6-10 Math &amp; Sciece Tuition for Australian School Students. (Aligned with Australian School Curriculum .",
+            "content_html": "<p>Expert Online Math &amp; Science Tutoring</p>\n<p>We Provide</p>\n<p>NIOS Coaching for Class 10 &amp; 12 in India  and</p>\n<p>Year 6-10 Math &amp; Sciece Tuition for Australian School Students. (Aligned with Australian School Curriculum .</p>\n<p>               </p>",
+            "author": {
+                "name": "Roy Sebastian"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-16T09:30:12+05:30",
+            "date_modified": "2026-06-16T09:30:12+05:30"
+        }
+    ]
+}

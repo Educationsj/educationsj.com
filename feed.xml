@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>St Josephs Online Institute</title>
+    <link href="https://educationsj.com/feed.xml" rel="self" />
+    <link href="https://educationsj.com" />
+    <updated>2026-06-16T09:30:12+05:30</updated>
+    <author>
+        <name>Roy Sebastian</name>
+    </author>
+    <id>https://educationsj.com</id>
+
+    <entry>
+        <title>Welcome to St.Joseph&#x27;s Online Institute</title>
+        <author>
+            <name>Roy Sebastian</name>
+        </author>
+        <link href="https://educationsj.com/welcome-to-stjosephs-online-institute.html"/>
+        <id>https://educationsj.com/welcome-to-stjosephs-online-institute.html</id>
+
+        <updated>2026-06-16T09:30:12+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Expert Online Math &amp; Science Tutoring We Provide NIOS Coaching for Class 10 &amp; 12 in India and Year 6-10 Math &amp; Sciece Tuition for Australian School Students. (Aligned with Australian School Curriculum .
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Expert Online Math &amp; Science Tutoring</p>
+<p>We Provide</p>
+<p>NIOS Coaching for Class 10 &amp; 12 in India  and</p>
+<p>Year 6-10 Math &amp; Sciece Tuition for Australian School Students. (Aligned with Australian School Curriculum .</p>
+<p>               </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
